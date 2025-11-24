@@ -10,7 +10,7 @@ except Exception:
 
 
 WIDTH, HEIGHT = 400, 600
-FPS = 60
+FPS = 30
 
 GRAVITY = 0.5
 FLAP_STRENGTH = -9
@@ -228,6 +228,7 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
 
 
 
