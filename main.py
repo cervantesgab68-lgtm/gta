@@ -1,13 +1,3 @@
-"""Flappy Bird-like game (Pygame)
-
-Controls:
-  Space - flap / jump
-  ESC   - quit
-
-Run:
-  python "c:/Users/GEN/3D Objects/main.py"
-"""
-
 import random
 import sys
 import os
@@ -238,6 +228,7 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
 
 
 
